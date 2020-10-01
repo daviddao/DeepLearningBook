@@ -1,4 +1,4 @@
-# DeepLearningBook
+# Deep Learning Book
 MIT Deep Learning Book in PDF format
 
 This book was downloaded in HTML form and conviniently joined as a single PDF file for your enjoyment. Please notice the known issues in the web page, especially with regards to some symbols not rendering well or not at all.
